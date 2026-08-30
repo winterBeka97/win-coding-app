@@ -33,7 +33,4 @@ Users are able to:
 - see their overview of their challenges on their profile
 - see the leaderboard 
 - able to discuss with each others
-- are able to create challenges for the community
-
-
-
+- are able to create challenges for the community  
