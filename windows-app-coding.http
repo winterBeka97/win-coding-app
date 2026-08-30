@@ -1,0 +1,6 @@
+@windows_app_coding_HostAddress = http://localhost:5121
+
+GET {{windows_app_coding_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

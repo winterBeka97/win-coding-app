@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9Ay2/8ysXQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rebeka\\Documents\\windows-app-coding\\Backend\\windows-app-coding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rebeka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Rebeka\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
