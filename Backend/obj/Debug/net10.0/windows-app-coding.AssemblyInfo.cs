@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("windows-app-coding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b3e7b9ae2f350d84cdcd544532371ab6de3ba2")]
 [assembly: System.Reflection.AssemblyProductAttribute("windows-app-coding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("windows-app-coding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
