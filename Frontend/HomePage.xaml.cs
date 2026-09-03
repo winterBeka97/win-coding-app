@@ -9,11 +9,11 @@ namespace windows_app_coding;
 /// <summary>
 /// The main content page displayed inside the application window.
 /// </summary>
-public sealed partial class MainPage : Page
+public sealed partial class HomePage : Page
 {
-    public MainPageViewModel ViewModel { get; } = new();
+    public HomePageViewModel ViewModel { get; } = new();
 
-    public MainPage()
+    public HomePage()
     {
         InitializeComponent();
     }
