@@ -8,7 +8,7 @@ namespace windows_app_coding.ViewModels;
 /// Uses <see cref="ObservableProperty"/> for change notification and
 /// <see cref="RelayCommand"/> for command binding.
 /// </summary>
-public partial class MainPageViewModel : ObservableObject
+public partial class HomePageViewModel : ObservableObject
 {
     [ObservableProperty]
     public partial string Greeting { get; set; } = "Hello, WinUI!";
